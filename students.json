@@ -1,0 +1,18 @@
+{
+
+"studs": [
+	{
+		"name": "Alex",
+		"surname": "Alexeev",
+		"age": "23",
+		"mark": "5.6"
+	},
+	{
+		"name": "Denis",
+		"surname": "Denisov",
+		"age": "18",
+		"mark": "4.2"
+	}
+]
+
+}
