@@ -1,18 +1,53 @@
 {
 
 "studs": [
-	{
-		"name": "Alex",
-		"surname": "Alexeev",
-		"age": "23",
-		"mark": "5.6"
-	},
-	{
-		"name": "Denis",
-		"surname": "Denisov",
-		"age": "18",
-		"mark": "4.2"
-	}
+		{
+			"ID": 1,
+			"Name": "Alexei",
+	 		"Surname": "Komov",
+	 		"Age": 19,
+	 		"Mark": 6.3
+	 	},
+
+  		{
+  			"ID": 2,
+  		 	"Name": "Alexandr",
+  		 	"Surname": "Romanov",
+  		 	"Age": 22,
+  		 	"Mark": 3.6
+  		},
+
+  		{
+  			"ID": 3,
+  		 	"Name": "Maksim",
+  		 	"Surname": "Podrankov", 
+  		 	"Age": 18,
+  		 	"Mark": 4.5
+  		},
+
+  		{
+  			"ID": 4, 
+  			"Name": "Denis", 
+  			"Surname": "Lordov", 
+  			"Age": 23, 
+  			"Mark": 8.7
+  		},
+
+  		{
+  			"ID": 5,
+  			"Name": "Arkadii",
+  			"Surname": "Korolyov",
+  			"Age": 21,
+  			"Mark": 7
+  		},
+
+  		{
+  			"ID": 6,
+  			"Name": "Valeriya",
+  			"Surname": "Maslova",
+  			"Age": 20,
+  			"Mark": 3.9
+  		}
 ]
 
 }
